@@ -1,4 +1,6 @@
-# Tema do meu projeto
+Demonstrar como a tecnologia pode ser aplicada tanto no campo (através da agricultura de precisão) quanto na interface do usuário (através de ferramentas de acessibilidade nativas), garantindo que a informação sobre sustentabilidade chegue a todos.
+
+---# Tema do meu projeto
 
 Projeto desenvolvido para o concurso Agrinho.
 # �� Terra do Amanhã | Acessibilidade & Sustentabilidade
@@ -8,9 +10,6 @@ Uma landing page que explora o futuro do agronegócio sustentável. O projeto un
 ---
 ## �� Objetivo do Projeto
 
-Demonstrar como a tecnologia pode ser aplicada tanto no campo (através da agricultura de precisão) quanto na interface do usuário (através de ferramentas de acessibilidade nativas), garantindo que a informação sobre sustentabilidade chegue a todos.
-
----
 ## ��️ Recursos Técnicos
 ### ♿ Hub de Acessibilidade (Custom JS)
 O projeto conta com um painel de controle exclusivo que permite:
